@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daniel McQuiston <daniel.pro@dehugo.net>",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "private": true
 }
