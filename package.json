@@ -1,0 +1,11 @@
+{
+  "name": "afcu-api",
+  "version": "0.0.1",
+  "description": "Sandbox to test screen scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel McQuiston <daniel.pro@dehugo.net>",
+  "license": "UNLICENSED"
+}
